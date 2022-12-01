@@ -1,2 +1,3 @@
-Repositório dos Desafios de Código JavaScript
+## Repositório dos Desafios de Código JavaScript
+
 Curso de Desenvolvimento Front-end e Back-end.
